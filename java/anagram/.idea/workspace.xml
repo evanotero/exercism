@@ -53,8 +53,8 @@
       <file leaf-file-name="Anagram.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Anagram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+            <state relative-caret-position="390">
+              <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -841,34 +841,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AnagramTest - 2016.09.11 at 18h 53m 32s.xml">
+    <history-entry file="AnagramTest - 2016.09.11 at 19h 15m 59s.xml">
       <configuration name="AnagramTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnagramTest - 2016.09.11 at 18h 53m 35s.xml">
+    <history-entry file="AnagramTest - 2016.09.11 at 19h 16m 01s.xml">
       <configuration name="AnagramTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnagramTest - 2016.09.11 at 18h 54m 15s.xml">
+    <history-entry file="AnagramTest - 2016.09.11 at 19h 16m 10s.xml">
       <configuration name="AnagramTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnagramTest - 2016.09.11 at 18h 54m 17s.xml">
+    <history-entry file="AnagramTest - 2016.09.11 at 19h 16m 13s.xml">
       <configuration name="AnagramTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnagramTest - 2016.09.11 at 18h 54m 18s.xml">
+    <history-entry file="AnagramTest - 2016.09.11 at 19h 16m 14s.xml">
       <configuration name="AnagramTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnagramTest - 2016.09.11 at 18h 55m 07s.xml">
+    <history-entry file="AnagramTest - 2016.09.11 at 19h 16m 15s.xml">
       <configuration name="AnagramTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnagramTest - 2016.09.11 at 18h 55m 09s.xml">
+    <history-entry file="AnagramTest - 2016.09.11 at 19h 16m 18s.xml">
       <configuration name="AnagramTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnagramTest - 2016.09.11 at 18h 55m 31s.xml">
+    <history-entry file="AnagramTest - 2016.09.11 at 19h 16m 19s.xml">
       <configuration name="AnagramTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnagramTest - 2016.09.11 at 18h 55m 32s.xml">
+    <history-entry file="AnagramTest - 2016.09.11 at 19h 16m 38s.xml">
       <configuration name="AnagramTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AnagramTest - 2016.09.11 at 18h 55m 34s.xml">
+    <history-entry file="AnagramTest - 2016.09.11 at 19h 16m 39s.xml">
       <configuration name="AnagramTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -947,8 +947,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Anagram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="51" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+        <state relative-caret-position="390">
+          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
